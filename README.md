@@ -14,9 +14,11 @@ Tech Stack:
 - **run python manage.py runserver**'''
 
 - dummy users for reference:
-      - admin-> username:admin
+-      - admin-> username:admin
               -email:admin@gmail.com
               -password:admin
-      - student->username:Adarsh
+-      - student->username:Adarsh
               -email:adarsh@gmail.com
               -password:Adarsh@123
+- 👋@Bundelkhand University
+- 📫features: add,issue,fine,etc.
