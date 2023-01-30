@@ -9,6 +9,6 @@ Tech Stack:
            dbsqlite3
           
 To run the project:
-**fork the repo
-**run python -m venv env command in root directory
-**run python manage.py runserver
+**fork the repo**
+**run python -m venv env command in root directory**
+**run python manage.py runserver**
