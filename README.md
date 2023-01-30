@@ -8,7 +8,7 @@ Tech Stack:
    Backend:Django/Python
            dbsqlite3
           
-To run the project:
+'''To run the project:
 **fork the repo**
 **run python -m venv env command in root directory**
-**run python manage.py runserver**
+**run python manage.py runserver**'''
