@@ -11,7 +11,8 @@ Tech Stack:
 '''To run the project:'''
 - **fork the repo**
 - **run python -m venv env command in root directory**
-- **run python manage.py runserver**'''
+- **run env\Scripts\activate**
+- **run python manage.py runserver**
 
 - dummy users for reference:
 -      - admin-> username:admin
@@ -21,4 +22,4 @@ Tech Stack:
               -email:adarsh@gmail.com
               -password:Adarsh@123
 - 👋@Bundelkhand University
-- 📫features: add,issue,fine,etc.
+- 📫features: add book,issue book,impose scheduled fine,etc.
