@@ -1,6 +1,24 @@
 # Library-Management-System
 Web Technology Academic Project 
 
+Steps, features and building up of this project:
+- Created a Django model for books with fields such as title, author, publisher, ISBN, and number of copies.
+-Implemented a view to display all books and their details.
+- Created a view to add new books to the library's collection.
+- Created a view to edit the details of an existing book.
+- Implemented a view to delete books from the library's collection.
+- Added a model for library members with fields like name, email, and membership status.
+- Implemented a view to display all library members and their details.
+- Added a view to register new members.
+- Created a view to edit the details of an existing member.
+- Implemented a view to remove members from the library.
+- Created a model to store information about borrowed books, including the member who borrowed it and the due date.
+- Implemented views to allow members to borrow books and return them.
+- Added a feature to display the borrowing history of a member.
+- Implemented a search feature to allow users to find books by title, author, or publisher.
+- Added authentication and authorization to restrict access to certain features to authorized users.
+- Implemented a feature to send email reminders to members with overdue books.
+
 Tech Stack:
    -Frontend:HTML
             -CSS
