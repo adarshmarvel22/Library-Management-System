@@ -39,3 +39,6 @@ Tech Stack:
 ![lms5](https://user-images.githubusercontent.com/87609950/233839130-f90dc333-abaf-4556-bc03-1aea962c1949.jpg)
 
 
+Folder structure and templates:
+![folder struct lms](https://user-images.githubusercontent.com/87609950/233839302-4671b670-557f-41f0-b4a5-67c374f3d24c.jpg)
+![templates](https://user-images.githubusercontent.com/87609950/233839304-59d47255-17cc-42a0-8a5a-b98672b4fc8f.jpg)
